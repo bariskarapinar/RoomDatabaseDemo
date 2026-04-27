@@ -139,7 +139,7 @@ sequenceDiagram
 
 | Empty State | Adding Data | CRUD Actions |
 | :---: | :---: | :---: |
-| ![Empty State](docs/screenshots/empty_state.png) | ![Adding](docs/screenshots/adding.png) | ![Actions](docs/screenshots/crud_actions.png) |
+| <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/d6d8e6fd-0a4d-4f26-87a7-c4b0395c69bb" /> | <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/d8831c31-62db-4510-9b6f-b478cc74939b" /> | <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/5a1db019-bf0d-4b84-943f-b50d9ab755c2" /> |
 
 ---
 
@@ -170,7 +170,7 @@ sequenceDiagram
 
 ## 👨‍💻 Author
 **Baris Karapinar**
-- *Aspiring Android Developer & Tech Enthusiast*
+- * Android Developer & Tech Enthusiast*
 
 ---
 <p align="center">
