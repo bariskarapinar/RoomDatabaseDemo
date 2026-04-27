@@ -170,7 +170,7 @@ sequenceDiagram
 
 ## 👨‍💻 Author
 **Baris Karapinar**
-- * Android Developer & Tech Enthusiast 
+- Android Developer & Tech Enthusiast 
 
 ---
 <p align="center">
